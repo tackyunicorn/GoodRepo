@@ -1,0 +1,2 @@
+This file should contain the required packages that are needed for the project to work.
+Ensure all packages are mentioned along with their versions (if there is a strict requirement on version)
